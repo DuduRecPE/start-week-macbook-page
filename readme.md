@@ -8,7 +8,6 @@ A proposta é simular com fidelidade o visual moderno e minimalista da Apple, ex
 
 ## 📸 Preview
 
-![Preview do Projeto](./src/assets/images/preview.jpg)  
 🔗 [Acesse a versão online do projeto](https://dudurecpe.github.io/start-week-macbook-page/)  
 *Visual da landing page clonada, inspirado no design da Apple.*
 
