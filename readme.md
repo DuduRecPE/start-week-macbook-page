@@ -8,7 +8,7 @@ A proposta é simular com fidelidade o visual moderno e minimalista da Apple, ex
 
 ## 📸 Preview
 
-🔗 [Acesse a versão online do projeto](https://dudurecpe.github.io/start-week-macbook-page/)  
+🔗 [Página Clone Macbook Air](https://dudurecpe.github.io/start-week-macbook-page/)  
 *Visual da landing page clonada, inspirado no design da Apple.*
 
 ---
